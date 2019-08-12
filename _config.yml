@@ -1,11 +1,16 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Samantha Henneman
+logo: "/images//84gChDlYT0GSMojvhL2y%2BQ.jpg?raw=true" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  My goal is to utilize web development skills to build a good web experience, ensure cyber security, and to manage and administer network organization. 
   <br><br>
-  Second description 
+  Skills:
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <ul>
+  <li>Ability to work independently or with a team</li>
+  <li>Adaptability in a fast-paced environment</li>
+  <li>Proficient in HTML, CSS, JS, Java, Bootstrap, MySQL, PHP, JQeury</li>
+  <li>Well organized with a high attention to detail</li>
+  </ul>
+  <a href="https://www.linkedin.com/in/samantha-henneman/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
