@@ -4,7 +4,7 @@
 
 ### Web Development Projects 
 
-[JKumari](/sample_page)
+[JKumari](https://jkumarichocolate.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
